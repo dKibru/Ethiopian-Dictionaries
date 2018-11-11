@@ -1,4 +1,3 @@
-እንግሊዘኛ		ትግሪኛ	አማርኛ	
 a 	in.ar 	ሓዶ	አንድ	
 abandon	v	ምሕዳግ	መተው	
 abandoned 	adj	ዝወደ	የተጣለ	

@@ -133,6 +133,19 @@ universal	ሁለንተናዊ
 utilitarian setting	መነሻ ደጀን
 V	
 vertical narration technique	ዋልተኛ ያልተራረክ ዘዴ
+
+
+
+
+
+
+
+
+
+
+
+
+
 poetry -ሥነ-ግጥም	
 A	
 accent	ቅናትና ድፋት
@@ -252,6 +265,17 @@ V
 verse	ስንኛ
 verse paragraph	የስድ ግጥም አንጎ አስተኔ
 versification	አሰነኛኘት
+
+
+
+
+
+
+
+
+
+
+
 Translation terms	
 የትርጉም ሙያዊ  ቃላት	
 A	
@@ -317,8 +341,14 @@ translation  	ሌጣ ትርጉም
 translator	ተረጓሚ
 V	
 verbatim et litratim[L]	ቃል ለቃልና ሆሄ ለሆሄ
-ORAL LITERATURE -ሥነ-ቃል	
-	
+
+
+
+
+
+
+
+ORAL LITERATURE -ሥነ-ቃል		
 A	
 adventure	ጀብዱ
 allegory	ተረታዊ ምሳሌ
@@ -376,6 +406,15 @@ tale	ተረት ተረት
 tradition	ትውፊት 
 W	
 war-song	ሽለላ 
+
+
+
+
+
+
+
+
+
 Non Fiction  ኢ-ልቦለድ 	
 A	
 Action report 	የድርጊት መዘርዝር 
@@ -466,6 +505,16 @@ tone	ድምጸት
 transmittal slip	የመሽኛ ቅጽ
 U	
 ut infra ()	እንደ ታችኛው
+
+
+
+
+
+
+
+
+
+
 Theater - ቲያትር 	እንደ ላይኛው
 A 	
 Absurd theater 	ወለፈንዴ ቲያትር 
@@ -605,6 +654,18 @@ V
 villain	እኩይ ገፀ-ባሕሪይ
 W	
 wardrobe mistress	አልላሽ
+
+
+
+
+
+
+
+
+
+
+
+
 music -ሙዚቃ	
 B	
 balalaika	በላላይካ
@@ -675,6 +736,16 @@ tune	ቅኛት
 V	
 viola	ቪዮላ
 violin	ቫዮሊን
+
+
+
+
+
+
+
+
+
+
 FINE ARTS _  ሥነ ጥበብ	
 A	
 abstract art	ስውር አስተኔ
@@ -931,6 +1002,15 @@ U
 upper case	ትልቅ ፊደል
 V	
 vekkum, parchment	ብራና
+
+
+
+
+
+
+
+
+
 Mass Media-መገናኛ ብዙኃን	
 radio & Television-ሬዲዮና ቴሌቪዥን	
 A	
@@ -1114,6 +1194,12 @@ volume control	የድምፅ መጠን መቆጣጠሪ
 Vu meter	ዪድምፅ መለኪያ
 W	
 wave	ሞገድ
+
+
+
+
+
+
 Press- ፕሬስ	
 A	
 actual malice	ክፉ ልቦና
@@ -1283,6 +1369,12 @@ W
 Weekly	ሳምንታዊ እትመት
 Y	
 Yellow journalism 	አጀብኛ ጋዜጠኝነት
+
+
+
+
+
+
 MULTI -PURPOSETERMS -	ሁለገብ ሙያዊ ቃላት
 A	
 Absolutism	ፍፁማዊነት
@@ -1475,6 +1567,10 @@ vulgar	ግልብ
 W	
 world outlook	ንጽተረት ዓለም
 writer	የፈጠራ ሥነ- ጽሑፍ ደራሲ
+
+
+
+
 English Abbreviations Used in Writing and Printing	
 በእንግሊዘኛ ቋንቋ ለጽሑፍና ለሕትመት የሚያገለግሉ አህጽሮተ- ቃላት	
 A	
